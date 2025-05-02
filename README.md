@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithashas&show_icons=true&locale=en&layout=compact" alt="lithashas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithashas&show_icons=true&locale=en" alt="lithashas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lithashas&" alt="lithashas" /></p>
